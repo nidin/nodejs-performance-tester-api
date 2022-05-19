@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-performance-tester-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nidin/nodejs-performance-tester-api.git",
+  "author": "Nidin Vinayakan <01@01alchemist.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
