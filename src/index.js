@@ -23,5 +23,5 @@ delays.forEach((delay) => {
 });
 
 app.listen(port, () => {
-  console.log(`Nodejs app listening on port ${port}`);
+  console.log(`Nodejs app ready at http://localhost:${port}`);
 });
